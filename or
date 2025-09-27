@@ -1,0 +1,4 @@
+operator = input("Enter operator")
+num1 = float( input( "Enter the number"))
+num2 = float( input( "Enter the number"))
+print (num1 + num2)
